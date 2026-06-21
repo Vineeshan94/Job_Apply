@@ -1,10 +1,10 @@
-# Draft-Only Runbook
+# Submit-Enabled Runbook
 
 Use this after reading `START_HERE_AUTOPILOT.md`.
 
 ## Mission
 
-Help Vineesha Nalla find relevant roles, prepare application materials, create Gmail drafts, and keep the tracker current. Stop before sending messages or submitting applications.
+Help Vineesha Nalla find relevant roles, submit truthful applications when safe, create Gmail drafts for outreach, check Gmail confirmations, and keep the tracker current. Target up to 100 real-fit applications per day when enough matching roles are available.
 
 ## Loop
 
@@ -12,22 +12,25 @@ Help Vineesha Nalla find relevant roles, prepare application materials, create G
 2. Run the checks in `RECENCY_PREFLIGHT.md`.
 3. Choose the right resume from `resumes/`.
 4. Draft role-specific answers, cover letter text, and recruiter outreach from `ANSWER_BANK.md`, the resume, and the job description.
-5. Save email outreach as a Gmail draft only.
-6. Update `JOB_APPLICATION_TRACKER.xlsx`.
-7. Ask Vineesha to review before any final send or submit action.
+5. Submit the application if the role passes preflight and no hard-stop blocker is present.
+6. Check Gmail for confirmation proof when practical.
+7. Save recruiter outreach as a Gmail draft unless Vineesha explicitly asks to send.
+8. Update `JOB_APPLICATION_TRACKER.xlsx`.
 
-## Do Not Automate
+## Hard Stops
 
-- Do not auto-send Gmail messages.
-- Do not auto-submit job applications.
 - Do not store real credentials, tokens, API keys, Gmail secrets, or private identity values.
 - Do not complete sensitive legal, immigration, background, or identity fields unless Vineesha provides the answer for that specific application.
+- Do not bypass CAPTCHA, hCaptcha, reCAPTCHA, anti-abuse pages, payment requests, suspicious forms, or requests for passwords/security answers.
+- Do not send recruiter outreach emails unless Vineesha explicitly asks in the active run.
 
 ## Summary Format
 
 Report:
 
 - Roles found.
+- Applications submitted.
+- Gmail confirmations found.
 - Drafts prepared.
 - Resume selected for each role.
 - Tracker rows updated.

@@ -17,12 +17,12 @@
 | Company | Company name. |
 | Role | Job title. |
 | Location | Job location or remote status. |
-| Status | `Prepared`, `Gmail Draft Created`, `Submitted by Vineesha`, `Already Applied`, `Skipped`, or `Blocked`. |
+| Status | `Submitted`, `Gmail Draft Created`, `Prepared`, `Already Applied`, `Skipped`, or `Blocked`. |
 | Source | LinkedIn, company site, Greenhouse, Workday, Lever, Indeed, referral, etc. |
 | Job URL | Official job or application URL. |
 | Resume Used | Java Full Stack resume or Generative AI resume. |
 | Work Authorization | H4 EAD; sponsorship-needed questions default to No. |
-| Draft Link / Notes | Gmail draft note, cover letter note, or application preparation note. |
+| Draft Link / Notes | Gmail draft note, confirmation proof, cover letter note, or application note. |
 | Next Action | What Vineesha should review or do next. |
 
 ## Blockers Columns

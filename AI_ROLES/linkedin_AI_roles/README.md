@@ -4,10 +4,10 @@ This folder contains LinkedIn-specific notes for Vineesha Nalla's AI, ML, data s
 
 ## Rules
 
-- Use LinkedIn for role discovery and draft preparation.
-- Do not auto-submit LinkedIn Easy Apply.
-- Do not send recruiter messages automatically.
-- Save Gmail outreach as drafts only.
+- Use LinkedIn for role discovery and application preparation.
+- Submit LinkedIn Easy Apply only when the role passes preflight, the selected resume is correct, and all required fields can be answered truthfully.
+- Do not send recruiter messages automatically unless Vineesha explicitly asks in the active run.
+- Save recruiter outreach as Gmail drafts by default.
 - Record prepared roles and blockers in `../../JOB_APPLICATION_TRACKER.xlsx`.
 
 ## Resume
@@ -36,4 +36,4 @@ Use `../../resumes/Vineesha_Nalla_Java_Full_Stack_Developer_Resume.docx` only wh
 - AI Platform Engineer
 - Data Platform Engineer
 
-Before preparing materials, confirm the role is open and relevant. Do not reject otherwise fitting roles only because they mention visa sponsorship, no sponsorship, or immigration support.
+Before preparing materials or submitting, confirm the role is open and relevant. Do not reject otherwise fitting roles only because they mention visa sponsorship, no sponsorship, or immigration support.

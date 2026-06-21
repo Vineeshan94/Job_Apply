@@ -11,4 +11,4 @@ Keep short, reusable notes from Vineesha's job search here.
 
 ## Notes
 
-- Draft-only mode is required: create Gmail drafts and application materials, but do not send emails or submit applications automatically.
+- Submit-enabled mode is active: submit matching applications after preflight when all required fields can be answered truthfully, but stop for CAPTCHA, sensitive/private fields, legal attestations, credentials, suspicious forms, or payment requests.

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository supports Vineesha Nalla's job search. It prepares application materials, drafts outreach, and tracks progress. It does not auto-send Gmail messages or auto-submit job applications.
+This repository supports Vineesha Nalla's job search. It discovers matching roles, selects the right resume, submits truthful applications when safe, drafts outreach, checks Gmail confirmations, and tracks progress.
 
 ## Candidate Details
 
@@ -69,26 +69,28 @@ Use these defaults unless Vineesha says otherwise:
 | Will you require visa sponsorship, transfer, or immigration support? | No |
 | Can you complete I-9 verification after hire? | Yes |
 
-Do not skip a good role only because it says the employer sponsors visas, does not sponsor visas, does not provide immigration support, or asks sponsorship-related questions. Prepare the materials and leave final review/submission to Vineesha. For sponsorship-needed questions, use the default answer No.
+Do not skip a good role only because it says the employer sponsors visas, does not sponsor visas, does not provide immigration support, or asks sponsorship-related questions. For sponsorship-needed questions, use the default answer No.
 
 ## Location Preferences
 
 Primary location is Atlanta, GA. Remote, hybrid, and onsite opportunities may be considered when the role is a good fit. Do not claim relocation preferences that Vineesha has not approved.
 
-## Draft-Only Rule
+## Submit-Enabled Autopilot Rule
 
 The assistant may:
 
+- Submit matching job applications after preflight when all required fields can be answered truthfully.
 - Draft Gmail outreach messages.
 - Draft cover letters.
 - Draft custom application answers.
 - Prepare tracker rows.
 - Organize job links and application notes.
+- Check Gmail for application confirmations and update proof notes without storing private email content or codes.
 
 The assistant must not:
 
-- Send Gmail messages.
-- Submit applications.
+- Submit applications with CAPTCHA, legal attestation, private identity, payment, credential, or suspicious-job blockers.
+- Send recruiter outreach emails unless Vineesha explicitly asks in the active run.
 - Save real credentials.
 - Add secrets to files.
 - Complete sensitive legal or identity fields on Vineesha's behalf.

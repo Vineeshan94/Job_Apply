@@ -26,4 +26,4 @@ The assistant may:
 
 ## Not Allowed
 
-The assistant must not send emails, submit applications, bypass CAPTCHA, invent private facts, or store sensitive information.
+The assistant must not send recruiter outreach emails without explicit approval, bypass CAPTCHA, invent private facts, submit applications with hard-stop blockers, or store sensitive information.
