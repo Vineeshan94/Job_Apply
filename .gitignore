@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+reports/
+*.bak
+*~
+*.tmp
+~$*
+.env
+.env.*
+!.env.example
+
+# Keep private identity values local only.
+PRIVATE_APPLICATION_FIELDS.md
