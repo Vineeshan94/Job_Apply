@@ -17,6 +17,7 @@ Read first:
 
 Goal:
 - Target up to 100 real-fit applications today when enough matching roles are available.
+- During a 24-hour rapid window, check frequently for newly posted matching roles and prioritize roles where the visible applicant count suggests Vineesha can be among the first 10 applicants.
 - Prioritize Java Full Stack, backend, AI, ML, Data Scientist, and Generative AI roles.
 - Use H4 EAD as work authorization.
 - If asked whether sponsorship is needed to work, answer No.
@@ -28,6 +29,7 @@ Use:
 
 Submit when:
 - The role is real, open, relevant, and not a duplicate.
+- The posting is new or recently refreshed, with priority for roles posted today, in the last hour, or marked with low/under-10 applicant counts.
 - Required fields can be answered truthfully from the repo, resume, job description, LinkedIn/GitHub context, or safe judgment.
 - No hard-stop blocker is present.
 
@@ -46,9 +48,9 @@ After each role:
 
 Summarize:
 - Submitted count.
+- Early/first-10 applicant opportunities found.
 - Gmail confirmations found.
 - Drafts created.
 - Blockers needing Vineesha.
 - Best next actions.
 ```
-
