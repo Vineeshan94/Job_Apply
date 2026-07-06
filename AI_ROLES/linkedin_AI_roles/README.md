@@ -19,7 +19,7 @@ Use `../../resumes/Vineesha_Nalla_Java_Full_Stack_Developer_Resume.docx` only wh
 ## Candidate Defaults
 
 - Name: Vineesha Nalla
-- Email: vineesha303@gmail.com
+- Email: vineeshan89@gmail.com
 - LinkedIn: https://linkedin.com/in/vineesha-r-05943935a
 - Location: Atlanta, GA
 - Work authorization: H4 EAD; if asked whether sponsorship is needed to work, answer No

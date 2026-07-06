@@ -10,7 +10,7 @@ This repository supports Vineesha Nalla's job search. It discovers matching role
 |---|---|
 | Legal name | Vineesha Nalla |
 | Preferred name | Vineesha Nalla |
-| Email | vineesha303@gmail.com |
+| Email | vineeshan89@gmail.com |
 | LinkedIn | https://linkedin.com/in/vineesha-r-05943935a |
 | Current location | Atlanta, GA |
 | Work authorization | H4 EAD |
@@ -94,3 +94,5 @@ The assistant must not:
 - Save real credentials.
 - Add secrets to files.
 - Complete sensitive legal or identity fields on Vineesha's behalf.
+
+Use `vineeshan89@gmail.com` as the primary email for future applications, Gmail confirmation checks, and recruiter outreach drafts. Never store or commit the Gmail password or any other credential.

@@ -7,7 +7,7 @@ This repository is for Vineesha Nalla's job application assistant. It supports c
 | Field | Value |
 |---|---|
 | Name | Vineesha Nalla |
-| Email | vineesha303@gmail.com |
+| Email | vineeshan89@gmail.com |
 | LinkedIn | https://linkedin.com/in/vineesha-r-05943935a |
 | Location | Atlanta, GA |
 | Work authorization | H4 EAD |
@@ -36,6 +36,7 @@ Use the Java resume for Java, Spring Boot, full-stack, backend, cloud, microserv
 - Create Gmail drafts for recruiter outreach and follow-up messages; do not send outreach emails automatically unless Vineesha explicitly asks in the active run.
 - Do not complete legal attestations, background checks, identity checks, assessments, or forms requiring private facts unless Vineesha explicitly provides the answer.
 - Keep tracker notes free of private credentials, email codes, and sensitive identity values.
+- Use `vineeshan89@gmail.com` as the primary email for future applications and recruiter outreach drafts. Never store or commit Gmail passwords or other credentials.
 
 ## Operating Flow
 
